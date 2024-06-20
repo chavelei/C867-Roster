@@ -11,22 +11,22 @@ This program includes functionalities to:
 - Parse student data from input strings
 
 ## Features
-### - Add Students 
+### Add Students 
 Dynamically adds new students to the roster.
 
-### - Remove Students
+### Remove Students
 Removes students from the roster by their student ID.
 
-### - Print Details
+### Print Details
 Prints detailed information about each student.
 
-### - Validate Emails
+### Validate Emails
 Checks and lists invalid email addresses.
 
-### - Average Days in Course
+### Average Days in Course
 Calculates and prints the average number of days a student spends in courses.
 
-### - Parse Data
+### Parse Data
 Parses student data from strings and populates the roster.
 
 ## Files
